@@ -1,1 +1,13 @@
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+scikit-learn
+boruta
+torch
+stable-baselines3
+gym
+pyngrok
+google
 
