@@ -38,3 +38,32 @@ pyproject.toml
 poetry.lock / requirements.txt
 .gitignore
 ```
+
+---
+
+##⚙️ Requisitos
+
+## 📦 Requirements
+
+Este proyecto usa las siguientes dependencias principales:
+```
+- numpy  
+- pandas  
+- matplotlib  
+- seaborn  
+- scipy  
+- scikit-learn (`sklearn`)  
+- torch  
+- stable-baselines3  
+- gym  
+- boruta  
+- pyngrok  
+- google  
+```
+Además de librerías estándar de Python:  
+`os`, `json`, `random`, `collections`, `ast`.
+
+👉 Puedes instalarlas con:
+```
+pip install -r requirements.txt
+```
