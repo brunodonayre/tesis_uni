@@ -34,8 +34,20 @@ notebooks/
 
 logs/ # archivos de logging y métricas
 slides/ # presentaciones de resultados
+
+outputs/                           # resultados y salidas del modelado
+     ├─ KS_comparacion_modelos.png     # comparación de modelos (curvas KS o métricas)
+     ├─ datos_sinteticos_todas_las_semanas.xlsx
+     ├─ ks_results_por_semana.xlsx
+     ├─ policy_completa_con_rangos.csv
+     ├─ policy_optima.csv
+     ├─ policy_optima_con_rangos.csv
+     ├─ policy_optima_legible.csv
+     ├─ policy_optima_traducida.csv
+     ├─ q_table_optima.json
+     └─ q_table_optima.pkl
+
 README.md
-pyproject.toml
 poetry.lock / requirements.txt
 .gitignore
 ```
