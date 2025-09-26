@@ -27,7 +27,7 @@ data/
  │   ├─ df_cruzado.xlsx               # dataset cruzado base
  │   ├─ df_cruzado_roi_filtrado.xlsx  # dataset cruzado filtrado por ROI
  │   ├─ df_imputado_cruzado.xlsx      # dataset cruzado con imputación
- │   └─ df_ruido.xlsx                 # dataset con ruido para augmentación
+ │   └─ df_ruido.xlsx                 # dataset con ruido
 
 notebooks/
  ├─ Test.ipynb                        # análisis exploratorio inicial y entrenamiento (EDA + GAN + RL/Q-Learning)
