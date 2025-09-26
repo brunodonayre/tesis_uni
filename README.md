@@ -19,5 +19,4 @@ La idea es mantener un flujo claro desde **ingesta → limpieza → análisis ex
 - **Fuente:** Conjunto de datos consolidado para investigación aplicada en sistemas productivos  
 - **Registros:** más de 7 mil observaciones entre 2020 y 2025  
 - **Variables:** productivas, económicas, ambientales y nutricionales (todas normalizadas y estandarizadas para análisis estadístico y de machine learning)  
-- **Versión usada:** actualización al 20/09/2025  
-- **Hash (SHA256):** `3f2a1b9d7c9...` *(identificador de integridad de la versión)*
+
