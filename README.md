@@ -22,6 +22,13 @@ La idea es mantener un flujo claro desde **ingesta → limpieza → análisis ex
 
 ```
 
+data/
+ ├─ processed/                    # dataset limpio y transformado
+ │   ├─ df_cruzado.xlsx
+ │   ├─ df_cruzado_roi_filtrado.xlsx
+ │   ├─ df_imputado_cruzado.xlsx
+ │   └─ df_ruido.xlsx
+
 notebooks/
 ├── Test.ipynb # Análisis exploratorio inicial y entrenamiento
 
