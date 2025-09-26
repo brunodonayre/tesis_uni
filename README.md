@@ -4,7 +4,7 @@ Este repositorio contiene una **plantilla estructurada** para análisis de datos
 La idea es mantener un flujo claro desde **ingesta → limpieza → análisis exploratorio → augment → modelado → exportación**.
 
 ---
-
+``
 ## 📂 Estructura del repositorio
 
 data/
@@ -23,7 +23,7 @@ README.md
 pyproject.toml
 poetry.lock / requirements.txt
 .gitignore
-
+``
 ---
 
 ## 👥 Autor
