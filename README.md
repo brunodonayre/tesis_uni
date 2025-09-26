@@ -7,6 +7,23 @@ La idea es mantener un flujo claro desde **ingesta → limpieza → análisis ex
 
 ## 📂 Estructura del repositorio
 
+data/
+ ├── raw/          # dataset original
+ ├── processed/    # dataset limpio y transformado
+notebooks/         
+ ├── EDA_basico.ipynb         # Análisis exploratorio inicial
+ └── Baseline_basico.ipynb    # Entrenamiento de baselines (Dummy + kNN)
+src/               
+ ├── ingesta.py               # script de ingesta
+ ├── preprocesamiento.py      # script de preprocesamiento
+ └── modelo_baseline.py       # script con modelo Dummy + kNN
+logs/              # archivos de logging y métricas
+slides/            # presentaciones de resultados
+README.md
+pyproject.toml
+poetry.lock / requirements.txt
+.gitignore
+
 
 ---
 
