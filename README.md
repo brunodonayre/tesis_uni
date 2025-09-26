@@ -7,25 +7,17 @@ La idea es mantener un flujo claro desde **ingesta → limpieza → análisis ex
 
 ## 📂 Estructura del repositorio
 
-├── .github/workflows/python-ci.yml # CI: lint + tests
-├── .gitignore # Archivos ignorados (data, outputs, etc.)
-├── .gitattributes # Configuración para Git LFS
-├── .pre-commit-config.yaml # Hooks automáticos (black, ruff, codespell)
-├── requirements.txt # Dependencias pip
-├── environment.yml # Dependencias conda
-├── README.md # Este archivo
-├── LICENSE # MIT License
-├── notebooks/
-│ └── Plantilla_Estudio.ipynb # Notebook principal de análisis
-├── src/project/
-│ ├── init.py
-│ ├── data_utils.py # Funciones para cargar/guardar datos
-│ └── eda.py # Funciones básicas de EDA
-├── data/
-│ ├── raw/ # Datos crudos (ignorado en Git)
-│ └── processed/ # Datos procesados (ignorado en Git)
-├── outputs/
-│ └── .gitkeep # Resultados (gráficos, tablas)
-├── docs/ # Documentación extendida
-└── tests/
-└── test_smoke.py # Test mínimo
+
+---
+
+## 👥 Autor
+- **Bruno Alejandro Donayre Donayre** – [brunodonayredonayre@gmail.com] 
+
+---
+
+## 📊 Dataset
+- **Fuente:** Conjunto de datos consolidado para investigación aplicada en sistemas productivos  
+- **Registros:** más de 7 mil observaciones entre 2020 y 2025  
+- **Variables:** productivas, económicas, ambientales y nutricionales (todas normalizadas y estandarizadas para análisis estadístico y de machine learning)  
+- **Versión usada:** actualización al 20/09/2025  
+- **Hash (SHA256):** `3f2a1b9d7c9...` *(identificador de integridad de la versión)*
