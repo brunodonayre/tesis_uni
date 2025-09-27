@@ -77,7 +77,4 @@ Este proyecto usa las siguientes dependencias principales:
 Además de librerías estándar de Python:  
 `os`, `json`, `random`, `collections`, `ast`.
 
-👉 Puedes instalarlas con:
-```
-pip install -r requirements.txt
-```
+
