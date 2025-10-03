@@ -6,19 +6,19 @@ La idea es mantener un flujo claro desde **ingesta → limpieza → análisis ex
 
 ---
 
-## 👥 Autor
+## Autor
 - **Bruno Alejandro Donayre Donayre** – [brunodonayredonayre@gmail.com] 
 
 ---
 
-## 📊 Dataset
+## Dataset
 - **Fuente:** Conjunto de datos consolidado para investigación aplicada en sistemas productivos  
 - **Registros:** más de 7 mil observaciones entre 2020 y 2025  
 - **Variables:** productivas, económicas, ambientales y nutricionales (todas normalizadas y estandarizadas para análisis estadístico y de machine learning)  
 
 ---
 
-## 📂 Estructura del repositorio
+## Estructura del repositorio
 
 ```
 
@@ -55,9 +55,9 @@ poetry.lock / requirements.txt
 
 ---
 
-##⚙️ Requisitos
+## Requisitos
 
-## 📦 Requirements
+## Requirements
 
 Este proyecto usa las siguientes dependencias principales:
 ```
